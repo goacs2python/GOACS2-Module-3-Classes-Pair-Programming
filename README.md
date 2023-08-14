@@ -1,6 +1,6 @@
-# Module 5 Team Problem Set
+# Module 3 Classes Pair Programming
 
-Please complete one problem from the Module 5 Problem Set with a partner. The other problem will be completed on your own.
+Please complete one problem from the Module 3 Classes Problem Set with a partner. The other problem will be completed on your own.
 
 ---
 
